@@ -1,0 +1,9 @@
+{
+  "jspmNodeConversion": false,
+  "jspm": {
+    "format": "es6",
+    "dependencies": {
+		"angular": "^1.6.6",	
+    }
+  }
+}
