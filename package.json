@@ -6,17 +6,12 @@
         "type": "git",
         "url": "git://github.com/juan25d/kunai-test-component.git"
     },
-    "author": "Akash Agrawal <akagr@outlook.com>",
-    "keywords": [
-        "jspm",
-        "stripe"
-    ],
     "license": "MIT",
     "homepage": "https://github.com/juan25d/kunai-test-component",
     "jspm": {
         "jspmNodeConversion": false,
         "dependencies": {
-            "angular": "npm:angular@1.6.9",
+            "angular": "npm:angular@1.6.9"
         }
     }
 }
