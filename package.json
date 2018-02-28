@@ -1,11 +1,10 @@
 {
+  "registry": "jspm",
+  "main": "lib/kunai-test-component",
   "directories": {
     "lib": "lib"
-  }, 
-  "main":"lib/kunai-ui-test-component",
-  "format": "es6",
-  "registry": "jspm",
+  },
   "dependencies": {
-    "angular": "^1.6.6"
+     "angular": "^1.6.6"
   }
 }
