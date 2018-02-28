@@ -1,2 +1,2 @@
 import 'angular';
-import './lib/kunai-test-component';
+import './lib/kunai-ui-test-component';
