@@ -1,11 +1,22 @@
 {
-  "name": "kunai-test-component",
-  "registry": "jspm",   
-  "main": "kunai-test-component",
-  "directories": {
-    "lib": "lib"
-  },
-  "dependencies": {
-     "angular": "^1.6.9"
-  }
+    "name": "kunai-test-component",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/juan25d/kunai-test-component.git"
+    },
+    "author": "Akash Agrawal <akagr@outlook.com>",
+    "keywords": [
+        "jspm",
+        "stripe"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/juan25d/kunai-test-component",
+    "jspm": {
+        "jspmNodeConversion": false,
+        "dependencies": {
+            "angular": "npm:angular@1.6.9",
+        }
+    }
 }
