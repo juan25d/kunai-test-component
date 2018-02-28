@@ -2,7 +2,7 @@
   "directories": {
     "lib": "lib"
   }, 
-  "main":false,
+  "main":"lib/kunai-ui-test-component",
   "format": "es6",
   "registry": "jspm",
   "dependencies": {
