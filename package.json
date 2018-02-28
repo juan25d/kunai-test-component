@@ -1,6 +1,7 @@
 {
+  "name": "kunai-test-component",
   "registry": "jspm",
-  "main": "kunai-test-component.js!",
+  "main": "lib/kunai-test-component",
   "directories": {
     "lib": "lib"
   },
